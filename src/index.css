@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card{
+  border: 1px solid black;
+  box-shadow: 0 0 5px black;
+  width: 275px;
+  margin: 20px;
+}
+
+.card-image img{
+  width: 249px;
+  height: 249px;
+}
+
+.card-title,
+.description{
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+.card-title{
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.description{
+  font-size: 12px;
+}
+
+.sector{
+  font-size: 10px;
+}
+
+.home-cards{
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.home-cards > .card{
+  display: inline-block;
+}
+
+.home-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.home-cards > .card {
+  flex: 1 1 275px;
+}

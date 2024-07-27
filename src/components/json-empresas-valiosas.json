@@ -1,0 +1,122 @@
+[
+        {
+            "title": "Apple Inc.",
+            "description": "Apple Inc. es una empresa estadounidense que diseña y produce equipos electronicos, software y servicios en linea.",
+            "sector": "Innovacion en tecnologia, marca reconocida mundialmente, productos de alta calidad.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg"
+        },
+        {
+            "title": "Microsoft Corporation",
+            "description": "Microsoft Corporation es una empresa tecnologica multinacional con sede en Redmond, Washington.",
+            "sector": "Lider en software de productividad, sistemas operativos, servicios en la nube.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg"
+        },
+        {
+            "title": "Amazon.com, Inc.",
+            "description": "Amazon.com, Inc. es una empresa estadounidense de comercio electronico y servicios de computacion en la nube.",
+            "sector": "Lider en comercio electronico, servicios en la nube, innovacion logistica.",
+            "img": "https://images.easyfundraising.org.uk/retailer/cropped/amazon.png"
+        },
+        {
+            "title": "Alphabet Inc.",
+            "description": "Alphabet Inc. es una empresa multinacional estadounidense conglomerada, matriz de Google.",
+            "sector": "Dominio en busquedas en linea, publicidad digital, inteligencia artificial.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alphabet_Inc_Logo_2015.svg"
+        },
+        {
+            "title": "Facebook, Inc.",
+            "description": "Facebook, Inc. es una empresa de tecnologia y redes sociales con sede en Menlo Park, California.",
+            "sector": "Lider en redes sociales, publicidad digital, innovacion en comunicacion.",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
+        },
+        {
+            "title": "Tencent Holdings Ltd.",
+            "description": "Tencent Holdings Ltd. es una empresa multinacional china de tecnologia y entretenimiento.",
+            "sector": "Lider en servicios de internet, videojuegos, redes sociales.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tencent_logo_2017.svg"
+        },
+        {
+            "title": "Alibaba Group Holding Limited",
+            "description": "Alibaba Group es una empresa china de comercio electronico y tecnologia.",
+            "sector": "Lider en comercio electronico, servicios en la nube, pagos en linea.",
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Alibaba-Group-Logo.svg"
+        },
+        {
+            "title": "Berkshire Hathaway Inc.",
+            "description": "Berkshire Hathaway Inc. es un holding multinacional estadounidense con sede en Omaha, Nebraska.",
+            "sector": "Diversificacion en inversiones, liderazgo en seguros, gestion financiera.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Berkshire-Hathaway-Logo.svg"
+        },
+        {
+            "title": "Tesla, Inc.",
+            "description": "Tesla, Inc. es una empresa estadounidense que diseña y fabrica coches electricos, baterias y productos de energia solar.",
+            "sector": "Innovacion en vehiculos electricos, energias renovables, liderazgo en tecnologia.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png"
+        },
+        {
+            "title": "Visa Inc.",
+            "description": "Visa Inc. es una empresa estadounidense de servicios financieros con sede en Foster City, California.",
+            "sector": "Lider en pagos electronicos, innovacion en servicios financieros, amplia red global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg"
+        },
+        {
+            "title": "Johnson & Johnson",
+            "description": "Johnson & Johnson es una corporacion multinacional estadounidense de dispositivos medicos, productos farmaceuticos y de consumo.",
+            "sector": "Innovacion en productos de salud, lider en dispositivos medicos, fuerte presencia global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/JNJ_Logo_New.svg"
+        },
+        {
+            "title": "Walmart Inc.",
+            "description": "Walmart Inc. es una corporacion multinacional estadounidense de tiendas de descuento y almacenes.",
+            "sector": "Lider en comercio minorista, precios competitivos, amplia red de tiendas.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg"
+        },
+        {
+            "title": "Samsung Electronics Co., Ltd.",
+            "description": "Samsung Electronics Co., Ltd. es una empresa multinacional surcoreana de tecnologia.",
+            "sector": "Innovacion en electronica de consumo, liderazgo en tecnologia de semiconductores, amplia gama de productos.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg"
+        },
+        {
+            "title": "Nestle S.A.",
+            "description": "Nestle S.A. es una multinacional suiza de alimentos y bebidas.",
+            "sector": "Lider en la industria alimentaria, amplia gama de productos, fuerte presencia global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nestl%C3%A9_textlogo.svg"
+        },
+        {
+            "title": "Procter & Gamble Co.",
+            "description": "Procter & Gamble Co. es una multinacional estadounidense de bienes de consumo.",
+            "sector": "Innovacion en productos de consumo, marcas reconocidas, amplia gama de productos.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Procter_%26_Gamble_logo.svg"
+        },
+        {
+            "title": "Roche Holding AG",
+            "description": "Roche Holding AG es una empresa suiza de atencion sanitaria y biotecnologia.",
+            "sector": "Lider en productos farmaceuticos, innovacion en biotecnologia, fuerte presencia global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hoffmann-La_Roche_logo.svg"
+        },
+        {
+            "title": "L'Oreal S.A.",
+            "description": "L'Oreal S.A. es una empresa francesa de cosmeticos y belleza.",
+            "sector": "Lider en productos de belleza, innovacion en cosmeticos, marcas reconocidas.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg"
+        },
+        {
+            "title": "Coca-Cola Company",
+            "description": "The Coca-Cola Company es una multinacional estadounidense de bebidas.",
+            "sector": "Lider en bebidas no alcoholicas, marca globalmente reconocida, innovacion en productos.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg"
+        },
+        {
+            "title": "PepsiCo, Inc.",
+            "description": "PepsiCo, Inc. es una multinacional estadounidense de alimentos, aperitivos y bebidas.",
+            "sector": "Lider en alimentos y bebidas, marcas reconocidas, fuerte presencia global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PepsiCo_logo.svg"
+        },
+        {
+            "title": "Toyota Motor Corporation",
+            "description": "Toyota Motor Corporation es una multinacional japonesa de automoviles.",
+            "sector": "Lider en fabricacion de automoviles, innovacion en vehiculos hibridos, amplia red global.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toyota.svg"
+        }
+    ]
